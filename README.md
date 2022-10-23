@@ -21,5 +21,3 @@
 ## 🐍 Just a snake eating my contributions
 
 ![snake gif](https://github.com/c0mr4dev/c0mr4dev/blob/output/github-contribution-grid-snake.gif)
-![snake gif](github-snake.svg#gh-light-mode-only)
-![snake gif](github-snake-dark.svg#gh-dark-mode-only)
