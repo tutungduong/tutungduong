@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="svg/c0mr4de.svg" width="1200" alt="c0mr4de-profile" />
+</a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
