@@ -16,28 +16,20 @@
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
 * 🏆 I usually work with ***PHP language***
-* 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
+* 📫 Ask me anything you want [**here**](..), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2>🛠 Technologies and Tools 🛠</h2>
  <img src="./images/divider.gif" alt="">
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -67,11 +59,19 @@
 
 ### ***📊 GitHub Profile Stats***
  <img src="./images/divider.gif" alt="">
-<p align="left">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=c0mr4dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/> <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=c0mr4dev&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<div align=center>
+  <a href="#" title="Trungquandev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=c0mr4dev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<br>
+<b> Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-## 🐍 Just a snake eating my contributions
+<h2> 🐍 Just a snake eating my contributions</h2>
+ <img src="./images/divider.gif" alt="">
 
 ![snake gif](https://github.com/c0mr4dev/c0mr4dev/blob/output/github-contribution-grid-snake.svg)
