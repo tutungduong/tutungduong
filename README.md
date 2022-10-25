@@ -13,7 +13,7 @@
  <img src="./images/divider.gif" alt="">
  <img  align="right" width=280 height=225px  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
  
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+### <img src="./images/stats.gif" width="30px">***About Me***
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
 * 🏆 I usually work with ***PHP language***
 * 📫 Ask me anything you want [**here**](..), If I were alive, I would reply within seconds 😉
@@ -60,8 +60,7 @@
 ### ***📊 GitHub Profile Stats***
  <img src="./images/divider.gif" alt="">
  
-<b> Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+ 
 <h2> 🐍 Just a snake eating my contributions</h2>
  <img src="./images/divider.gif" alt="">
 
