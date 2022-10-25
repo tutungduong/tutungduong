@@ -3,6 +3,10 @@
 </a>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
+  <em>
+    I am a <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
+    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+  </em> 
   <br>
   <img src="./images/dog_2.gif" width="50" /><i align="center">Thought : "Life is full of choices…choose wisely!”</i> <img src="./images/dog_1.gif" width="50" />
 </p>
