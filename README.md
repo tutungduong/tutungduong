@@ -69,4 +69,5 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 ## 🐍 Just a snake eating my contributions
+
 ![snake gif](https://github.com/c0mr4dev/c0mr4dev/blob/output/github-contribution-grid-snake.svg)
