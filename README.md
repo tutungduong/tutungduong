@@ -20,7 +20,9 @@
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br>
-<h2>🛠 Technologies and Tools 🛠</h2>
+
+### ***🛠 Technologies and Tools 🛠***
+
  <img src="./images/divider.gif" alt="">
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
