@@ -60,6 +60,15 @@
 ### ***📊 GitHub Profile Stats***
  <img src="./images/divider.gif" alt="">
  
+ <div align=center>
+  <a href="#" title="c0mr4de">
+    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="c0mr4de">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=c0mr4dev&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
 <h2> 🐍 Just a snake eating my contributions</h2>
  <img src="./images/divider.gif" alt="">
