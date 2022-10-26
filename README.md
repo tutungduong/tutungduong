@@ -62,7 +62,7 @@
  
  <div align=center>
   <a href="#" title="c0mr4de">
-    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&langs_count=8&layout=compact&border_color=61dafb&text_color=ffffff&hide_border=true" />
   </a>
 
   <a href="#" title="c0mr4de">
