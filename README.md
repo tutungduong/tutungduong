@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/c0mr4de.svg" width="1200" alt="c0mr4de-official" />
+<!--   <img src="svg/c0mr4de.svg" width="1200" alt="c0mr4de-official" /> -->
 </a>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
