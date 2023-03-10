@@ -64,11 +64,11 @@
  
  <div align=center>
   <a href="#" title="c0mr4de">
-    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4deVN&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&langs_count=8&layout=compact&border_color=61dafb&text_color=ffffff&hide_border=true" />
+    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4dex&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&langs_count=8&layout=compact&border_color=61dafb&text_color=ffffff&hide_border=true" />
   </a>
 
   <a href="#" title="c0mr4de">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=c0mr4deVN&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=c0mr4dex&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
