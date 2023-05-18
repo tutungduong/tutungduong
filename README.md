@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center">
   <em>
-    I am a third-year undergraduate student at <b>VNUHCM-University of Science</b><br>majoring in <b>Computer & Embedded System</b>.
+    I am a last-year undergraduate student at <b>VNUHCM-University of Science</b><br>majoring in <b>Computer & Embedded System</b>.
 .Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
     <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
   </em> 
@@ -15,7 +15,7 @@
  <img  align="right" width=280 height=225px  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
  
 ## <img src="./images/stats.gif" width="30px">***About Me***
-* 🌱 I'm currently learning ***Javascript*** and ***ReactJS*** for Front-End Development😍
+* 🌱 I'm currently learning for Website Development😍
 * 📫 Interested in new web technologies, frameworks and libraries. 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
