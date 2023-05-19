@@ -1,7 +1,7 @@
 <a href="#" target="_blank">
 <!--   <img src="svg/c0mr4de.svg" width="1200" alt="c0mr4de-official" /> -->
 </a>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Software Engineer</h1>
 <p align="center">
   <em>
     I am a last-year undergraduate student at <b>VNUHCM-University of Science</b><br>majoring in <b>Computer & Embedded System</b>.
