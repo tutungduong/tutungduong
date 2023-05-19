@@ -58,7 +58,7 @@
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
 <br>
-
+<!-- 
 ### ***📊 GitHub Profile Stats***
  <img src="./images/divider.gif" alt="">
  
@@ -70,7 +70,7 @@
   <a href="#" title="c0mr4de">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=c0mr4dex&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
 <h2> 🐍 Just a snake eating my contributions</h2>
