@@ -23,7 +23,8 @@
 
  <img src="./images/divider.gif" alt="">
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/SpringJava-282C34?logo=spring&logoColor=#6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
+  <p align="center">
+  <span><img src="https://img.shields.io/badge/SpringJava-282C34?logo=spring&logoColor=#6DB33F" alt="Spring logo" title="Spring" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -57,6 +58,7 @@
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
+  </p>
 <br>
 <!-- 
 ### ***📊 GitHub Profile Stats***
