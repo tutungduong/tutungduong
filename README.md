@@ -18,7 +18,6 @@
 * 🌱 I'm currently learning for Back-End Development.
 * 📫 Interested in new web technologies, frameworks and libraries.
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
-<br>
 
 ### **_🛠 Technologies and Tools 🛠_**
 
