@@ -1,27 +1,25 @@
 <a href="#" target="_blank">
 <!--   <img src="svg/c0mr4de.svg" width="1200" alt="c0mr4de-official" /> -->
 </a>
-<h1 align="center">Software Engineer</h1>
+<h2 align="center">Hello World</h2>
 <p align="center">
   <em>
-    I am a last-year undergraduate student at <b>VNUHCM-University of Science</b><br>majoring in <b>Computer & Embedded System</b>.
-.Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
-    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+    I am an undergraduate student at <b>VNUHCM-University of Science</b><br>majoring in <b>Computer & Embedded System</b>. With a strong passion for coding <img src="./images/Developer.gif" width="30px">
+    <br>I continuously strive to learn <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and unravel the core of complex problems.</b>
   </em> 
-  <br>
-  <img src="./images/dog_2.gif" width="50" /><i align="center">Thought : "Life is full of choices…choose wisely!”</i> <img src="./images/dog_1.gif" width="50" />
+  <!-- <br> -->
+  <!-- <img src="./images/dog_2.gif" width="50" /><i align="center">Thought : "Life is full of choices…choose wisely!”</i> <img src="./images/dog_1.gif" width="50" /> -->
 </p>
  <img src="./images/divider.gif" alt="">
- <img  align="right" width=280 height=225px  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
+ <!-- <img  align="right" width=280 height=225px  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" /> -->
+  <img  align="right" width=280px height=250px  src="./images/code.gif" width="400" />
  
 ## <img src="./images/stats.gif" width="30px">***About Me***
-* 🌱 I'm currently learning for Website Development😍
-* 📫 Interested in new web technologies, frameworks and libraries. 😉
+* 🌱 I'm currently learning for Back-End Development.
+* 📫 Interested in new web technologies, frameworks and libraries.
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
-
 <br>
-
-### ***🛠 Technologies and Tools 🛠***
+### **_🛠 Technologies and Tools 🛠_**
 
  <img src="./images/divider.gif" alt="">
 <!-- https://simpleicons.org/ -->
