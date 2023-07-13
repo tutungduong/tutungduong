@@ -13,11 +13,17 @@
  <img src="./images/divider.gif" alt="">
  <!-- <img  align="right" width=280 height=225px  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" /> -->
   <img  align="right" width=280px height=220px  src="./images/code.gif" />
- 
-## <img src="./images/stats.gif" width="30px">***About Me***
-* 🌱 I'm currently learning for Back-End Development.
-* 📫 Interested in new web technologies, frameworks and libraries.
-* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+
+### <img src="./images/stats.gif" width="30px" style="vertical-align: bottom;"> **_About Me_**
+
+<!-- ### <div style="display: flex; align-items: flex-end;"> -->
+<!-- ### <img src="./images/stats.gif" width="30px" style="vertical-align: bottom; margin-bottom: 0px;"> **_About Me_** -->
+  <!-- <strong>**About Me**</strong> -->
+<!-- </div> -->
+
+- 🌱 I'm currently learning for Back-End Development.
+- 📫 Interested in new web technologies, frameworks and libraries.
+- 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 ### **_🛠 Technologies and Tools 🛠_**
 
