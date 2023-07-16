@@ -85,6 +85,11 @@
 <h2> 🐍 Just a snake eating my contributions</h2>
  <img src="./images/divider.gif" alt="">
 
-![snake gif](https://github.com/c0mr4dex/c0mr4dex/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/c0mr4dex/c0mr4dex/blob/output/github-contribution-grid-snake.svg)
 
-<!-- ![snake gif](https://github.com/c0mr4dex/c0mr4dex/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/c0mr4dex/c0mr4dex/blob/output/github-contribution-grid-snake.gif) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0mr4dex/c0mr4dex/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c0mr4dex/c0mr4dex/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/c0mr4dex/c0mr4dex/output/github-contribution-grid-snake.svg">
+</picture>
