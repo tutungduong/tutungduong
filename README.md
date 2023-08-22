@@ -72,11 +72,11 @@
 
  <!-- <div align=center>
   <a href="#" title="c0mr4de">
-    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mr4dex&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&langs_count=8&layout=compact&border_color=61dafb&text_color=ffffff&hide_border=true" />
+    <img width="315" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutungduong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&langs_count=8&layout=compact&border_color=61dafb&text_color=ffffff&hide_border=true" />
   </a>
 
   <a href="#" title="c0mr4de">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=c0mr4dex&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tutungduong&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
 </div>  -->
 
@@ -85,10 +85,10 @@
 <h2> 🐍 Just a snake eating my contributions</h2>
  <img src="./images/divider.gif" alt="">
 
-<!-- ![snake gif](https://github.com/c0mr4dex/c0mr4dex/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/tutungduong/tutungduong/blob/output/github-contribution-grid-snake.svg) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0mr4dex/c0mr4dex/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c0mr4dex/c0mr4dex/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/c0mr4dex/c0mr4dex/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tutungduong/tutungduong/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tutungduong/tutungduong/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tutungduong/tutungduong/output/github-contribution-grid-snake.svg">
 </picture>
