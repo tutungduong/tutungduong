@@ -1,4 +1,4 @@
-![Logo](https://gist.github.com/assets/77218728/85d7d150-66b7-4104-aec2-f2ebce4a6fd7)
+![Logo](https://github.com/tutungduong/tutungduong/assets/77218728/b21d9cf2-dc30-4693-8a3a-dfb299f62f19)
 <h2 align="center">Hello World</h2>
 <p align="center">
   <em>
