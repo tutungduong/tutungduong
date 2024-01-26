@@ -2,27 +2,29 @@
 <h2 align="center">Hello World</h2>
 <p align="center">
   <em>
-    I'm a Computer & Embedded Systems undergrad at <b>VNUHCM-University of Science</b>. I love coding <img src="https://gist.github.com/assets/77218728/c93cacb5-4ded-47d6-b2d5-8d8a3f08b242" width="30px">, learning new tech <img src="https://gist.github.com/assets/77218728/35cdfacd-4bc3-4816-b129-9ab890d09b5f" width="36px">, and solving complex problems.
+    I'm a Computer & Embedded Systems undergrad at <b>VNUHCM-University of Science</b>. I love coding <img src="https://github.com/tutungduong/tutungduong/assets/77218728/a7f8af4d-5e13-461c-81ac-2c301e0494e9" width="30px">, learning new tech <img src="https://github.com/tutungduong/tutungduong/assets/77218728/67244652-6d18-4437-92b7-72e2ff2e9200" width="36px">, and solving complex problems.
   </em> 
 </p>
 
- <img src="https://gist.github.com/assets/77218728/f43e2f5d-5485-4c51-b0f9-be14de76a927" alt="">
+ <img src="https://github.com/tutungduong/tutungduong/assets/77218728/a155ce1e-2e89-417f-96d3-f452b5873167" alt="">
  
-  <img  align="right" width=280px height=220px  src="https://gist.github.com/assets/77218728/55c35acd-769d-4e1e-aa5c-a8d6f8da0df5" />
+  <img  align="right" width=280px height=220px  src="https://github.com/tutungduong/tutungduong/assets/77218728/7b123d40-7b2f-4957-839a-b0e17ba94d6c" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutungduong&color=0e75b6&style=flat&abbreviated=true" alt="tutungduong" /> </p>
 
 <h3>
-  <img src="https://gist.github.com/assets/77218728/596828f3-e124-468b-a4eb-9dd6657c1d06" width="30px"> 
+  <img src="https://github.com/tutungduong/tutungduong/assets/77218728/66958dda-627a-4410-86f0-93ac071548f7" width="30px"> 
   <em>About Me</em>
 </h3>
 
 - 🌱 I'm currently learning for Back-End Development.
 - 📫 Interested in new web technologies, frameworks and libraries.
 - 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+<h3>
+  <img src="https://github.com/tutungduong/tutungduong/assets/77218728/66958dda-627a-4410-86f0-93ac071548f7" width="30px"> 
+  <em>Technologies and Tools</em>
+</h3>
 
-<h3><em>🛠Technologies and Tools🛠</em> </h3>
-
- <img src="https://gist.github.com/assets/77218728/f43e2f5d-5485-4c51-b0f9-be14de76a927" alt="">
+ <img src="https://github.com/tutungduong/tutungduong/assets/77218728/a155ce1e-2e89-417f-96d3-f452b5873167" alt="">
 <!-- https://simpleicons.org/ -->
   <p align="center">
     <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
@@ -65,7 +67,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <h2> 🐍 Just a snake eating my contributions</h2>
- <img src="https://gist.github.com/assets/77218728/f43e2f5d-5485-4c51-b0f9-be14de76a927" alt="">
+ <img src="https://github.com/tutungduong/tutungduong/assets/77218728/a155ce1e-2e89-417f-96d3-f452b5873167" alt="">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tutungduong/tutungduong/output/github-contribution-grid-snake-dark.svg">
