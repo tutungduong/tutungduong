@@ -11,10 +11,10 @@
     <br>
   </samp>
 </div>
-<img align="left" src="https://komarev.com/ghpvc/?username=tutungduong&color=0e75b6&style=flat&abbreviated=true" alt="tutungduong" />
+<img align="right" src="https://komarev.com/ghpvc/?username=tutungduong&color=0e75b6&style=flat&abbreviated=true" alt="view github" />
 <h3>
   <img src="https://github.com/tutungduong/tutungduong/assets/77218728/66958dda-627a-4410-86f0-93ac071548f7" width="30px"> 
-  <em>Technical Expertise</em>
+  <em>Technologies and Tools</em>
 </h3>
 <img src="https://github.com/tutungduong/tutungduong/assets/77218728/a155ce1e-2e89-417f-96d3-f452b5873167" alt="">
 <!-- https://simpleicons.org/ -->
